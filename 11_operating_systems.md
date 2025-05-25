@@ -45,7 +45,7 @@ Operating systems manage resources, provide an interface between users and machi
 - Cons: Debugging is complex; job failures cause unpredictable behavior.
 - Examples: Bank statements processing, payroll systems.
 
-[Batch](images/os1.png)
+![Batch](images/os1.png)
 
 ### Time-Sharing Operating System
 - Allocates specific time slots to each task, cycling through tasks to ensure fairness.
@@ -53,7 +53,7 @@ Operating systems manage resources, provide an interface between users and machi
 - Cons: Data communication can sometimes be problematic.
 - Example: Unix.
 
-[Time Sharing](images/os2.png)
+![Time Sharing](images/os2.png)
 
 ### Distributed Operating System
 - Consists of loosely coupled autonomous systems working together.
@@ -61,7 +61,7 @@ Operating systems manage resources, provide an interface between users and machi
 - Cons: Failure of main network can halt the entire system.
 - Example: LOCUS.
 
-[Distributed](images/os3.png)
+![Distributed](images/os3.png)
 
 ### Network Operating System
 - Runs on a server managing shared resources across tightly coupled systems.
@@ -69,14 +69,14 @@ Operating systems manage resources, provide an interface between users and machi
 - Cons: Can be costly.
 - Examples: Microsoft Windows Server, Linux.
 
-[Network](images/os4.png)
+![Network](images/os4.png)
 
 ### Real-Time Operating System
 - Designed for applications with strict time constraints and response sensitivity.
 - Pros: Optimal memory management and quick processing.
 - Used in: Missile systems, traffic control systems.
 
-[Real Time](images/os5.png)
+![Real Time](images/os5.png)
 
 ## Command Line
 

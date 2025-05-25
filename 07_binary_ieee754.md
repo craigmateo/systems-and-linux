@@ -99,10 +99,6 @@ Example: Represent **−7**
 
 So, **−7 in 5-bit two’s complement = `11001`**
 
-> **Videos**:  
-> - [How to Represent a Negative Binary Number using Two's Complement (2:22m)](#)  
-> - [Binary Arithmetic using Two's Complement](#)
-
 ## Addition of Signed Binary Numbers
 
 There are two types of operations in the addition of binary numbers:
@@ -228,7 +224,7 @@ Representing a real number in machines can be challenging. The IEEE 754 standard
 - **Exponent**: 8 bits  
 - **Mantissa**: 23 bits  
 
-[Single Precision](images/ieee1.png)
+![Single Precision](images/ieee1.png)
 
 #### Double Precision (64 bits)
 
@@ -236,7 +232,7 @@ Representing a real number in machines can be challenging. The IEEE 754 standard
 - **Exponent**: 11 bits  
 - **Mantissa**: 52 bits  
 
-[Double Precision](images/iee2.png)
+![Double Precision](images/iee2.png)
 
 ---
 

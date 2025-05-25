@@ -30,7 +30,7 @@ Module 5 covers virtualization and virtual machines, focusing on VMware. You wil
 
 Virtualization is the creation of a virtual version of a device or resource on a computer. For example, partitioning a single hard drive into multiple virtual drives lets each act as an independent hard drive. This virtual framework lets users work as if they are using a real, unified device.
 
-[Virtualization](images/virtualization.png)
+![Virtualization](images/virtualization.png)
 
 ### Types of Virtualization:
 
