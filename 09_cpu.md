@@ -20,9 +20,6 @@ The **Central Processing Unit (CPU)** is the main processing unit of a computer 
 
 ### Central Processing Unit (CPU): Parts, Definition & Function
 
-*Paul Zandbergen, 4m55s*  
-[Click here to open in new window to watch the first two minutes.]
-
 The CPU is the brain of your computer. It handles all instructions provided to the computer, and the faster it does this, the better. Learn how a CPU processes instructions and how computer engineers continuously develop ways to improve its performance.  
 
 There is a variety of CPU architectures available on the market, produced by different manufacturers. They offer different features and specifications aimed at enhancing computation capabilities. Different architectures optimize instruction execution and data transfer in different ways.
